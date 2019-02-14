@@ -1,0 +1,16 @@
+{
+    "name": "ApiDoc",
+    "version": "1.0.0",
+    "description": "API",
+    "title": "Title",
+    "url" : "url",
+    "header": {
+        "title": "Documentation",
+        "filename": "./documentation/top.md"
+    },
+    "template": {
+        "forceLanguage": "en",
+        "withCompare": true,
+        "withGenerator": true
+    }
+}
